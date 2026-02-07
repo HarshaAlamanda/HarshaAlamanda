@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 "Hi there! 👋 I'm Harsha Vardhan I'm an aspiring Generative AI Engineer and a final-year B.E. Computer Science student (specializing in Artificial Intelligence) at Sathyabama University of Science and Technology. I'm passionate about building practical AI systems using modern language models and machine learning techniques. I love taking ideas from experimentation to deployment — turning raw data and models into reliable, real-world solutions that create measurable impact. "
 
 
